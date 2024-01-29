@@ -199,11 +199,12 @@ letter-spacing: 0.02em;
     
 }
 .team-list {
-    background-color: #fff;
+    
     display: flex;
     gap: 24px;
 }
 .team-list-item {
+    background-color: #fff;
     border-radius: 0px 0px 4px 4px;
     flex-basis: calc((100% - 72px) / 4);
 }
